@@ -15,12 +15,12 @@ El dataset original es pot descarregar a la web [data.world](https://data.world/
 
 ### Codi
 
-El codi es presenta en format **Jupyter Notbook** seguint els punts de l'enunciat de la pràctica. Aquí es troba tot el codi realitzat juntament amb parts explicatives del que s'està fent.
+El codi es presenta en format **Jupyter Notbook** seguint els punts de l'enunciat de la pràctica. Al directori `codi/` es troba el fitxer amb tot el codi realitzat juntament amb parts explicatives del que s'està fent.
    
 ### Fitxer ouptut
 
-Els fitxers amb les dades obtingudes es troben a la carpeta `data/output_data/XXX.csv`
+Els fitxers amb les dades obtingudes es troben a la carpeta `data/output/df_XXX.csv`
 
 ### Full de respostes de l'exercici 
 
-El full de respostes de l'exercici es troba a `pdf/practica02.pdf`
+El full de respostes de l'exercici es troba a `pdf/practica02.pdf` o en format html `pdf/practica02.html`
