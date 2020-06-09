@@ -19,7 +19,7 @@ El codi es presenta en format **Jupyter Notbook** seguint els punts de l'enuncia
    
 ### Fitxer ouptut
 
-Els fitxers amb les dades obtingudes es troben a la carpeta `output_data/XXX.csv`
+Els fitxers amb les dades obtingudes es troben a la carpeta `data/output_data/XXX.csv`
 
 ### Full de respostes de l'exercici 
 

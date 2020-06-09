@@ -1,1 +1,4 @@
 data/soccer_database.sqlite
+.DS_Store
+.ipynb_checkpoints/
+datasoccer_database.sqlite
